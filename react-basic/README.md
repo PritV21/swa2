@@ -31,6 +31,6 @@ jobs:
           # For more information regarding Static Web App workflow configurations, please visit: https://aka.ms/swaworkflowconfig
           app_location: "/react-basic" # App source code path
           api_location: "" # Api source code path - optional
-          output_location: "/react-basic/build" # Built app content directory - optional
+          output_location: "build" # Built app content directory - optional
           ###### End of Repository/Build Configurations ######
 ```
